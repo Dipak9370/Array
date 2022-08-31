@@ -13,6 +13,6 @@ int main()
         sum += marks[i];
     }
   average = sum / n;
-    printf("Sum:%d",average);
+    printf("Average:%d",average);
     return 0;
 }
